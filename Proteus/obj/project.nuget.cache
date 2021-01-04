@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5wDwRcWc5pIrEhCUa0TUtef/lezE4YWLxdJqWuyp2bV8erBesYZyZb/y93pkjIgN6a1dbZi/gT1RzPfLvX7/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeffp\\OneDrive\\Documents\\Workspaces\\StoryWorkshop\\Proteus\\Proteus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.1\\microsoft.aspnetcore.authorization.5.0.1.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.1\\microsoft.aspnetcore.components.5.0.1.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.1\\microsoft.aspnetcore.components.analyzers.5.0.1.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.1\\microsoft.aspnetcore.metadata.5.0.1.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.jsinterop\\5.0.1\\microsoft.jsinterop.5.0.1.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.1\\microsoft.jsinterop.webassembly.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Main.fs" />
+    <Compile Include="Startup.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Bolero" Version="0.*" />
+    <PackageReference Include="Bolero.Build" Version="0.*" />
+    <PackageReference Include="Bolero.HotReload" Version="0.*" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="5.0.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="GLOM\bin\Debug\net5.0\GLOM.deps.json" />
+    <_ContentIncludedByDefault Remove="GLOM\obj\GLOM.csproj.nuget.dgspec.json" />
+    <_ContentIncludedByDefault Remove="GLOM\obj\project.assets.json" />
+    <_ContentIncludedByDefault Remove="GLOM\obj\project.packagespec.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Proteus\Proteus.csproj" />
+  </ItemGroup>
+</Project>
